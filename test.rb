@@ -1,3 +1,4 @@
+!#/usr/bin/env ruby
 master = 'master'
 git_branch = 'git branch'
 pwd = 'pwd'
